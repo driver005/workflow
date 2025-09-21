@@ -1,7 +1,7 @@
 version: "1.0"
 
-include:
-  - docker-compose-appflowy.yml
+#include:
+#  - docker-compose-appflowy.yml
 
 services:
   ## N8N - Workflow automation
